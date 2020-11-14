@@ -19,6 +19,7 @@ random_number = random.randint(20)
 value = ""
 
 #The loop will break when the value(INTEGER) is equal to the random number
+#rainbow 123
 
 while value != random_number:
     
